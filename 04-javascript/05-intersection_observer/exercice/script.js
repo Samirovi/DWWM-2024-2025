@@ -13,3 +13,4 @@
  * 3. Ajouter l'animation de l'exercice 1 aux nouveaux paragraphes.
  * 4. Ajouter la détection du dernier paragraphe au nouveau dernier paragraphe.
  */
+
