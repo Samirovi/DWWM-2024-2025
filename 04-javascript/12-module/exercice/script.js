@@ -1,4 +1,5 @@
 "use strict";
+
 const images = ["../../ressources/images/paysage/lava.jpg","../../ressources/images/paysage/montagne.jpg","../../ressources/images/paysage/phare.jpg","../../ressources/images/paysage/ville.jpg"];
 
 window.addEventListener("click", addSlider)
